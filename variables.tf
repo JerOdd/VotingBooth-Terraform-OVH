@@ -2,10 +2,10 @@ variable "service_name" {
   type = string
 }
 
-variable "harbor_email" {
+variable "email" {
   type = string
 }
 
-variable "harbor_login" {
+variable "login" {
   type = string
 }
